@@ -1,1 +1,1 @@
-# Spal-project1
+# - Weather app (openWeather API)
